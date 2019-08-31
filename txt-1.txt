@@ -2,3 +2,6 @@ TEXT
 
 78
 115
+
+
+oshte teks
